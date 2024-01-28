@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mach.h": "c",
+        "mach_types.h": "c",
+        "mach_init.h": "c",
+        "loader.h": "c",
+        "nlist.h": "c",
+        "stab.h": "c"
+    }
+}
